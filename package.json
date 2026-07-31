@@ -6,29 +6,5 @@
   "description": "Knowledge-services node accountable for identifier resolution.",
   "scripts": {
     "verify": "npm --prefix services/resolving-an-identifier run check"
-  },
-  "x-agentic-metro-enterprise": {
-    "node-id": "identifier-services-section",
-    "owners": [
-      "board-of-directors",
-      "executive-office",
-      "knowledge-services-section"
-    ],
-    "membrane": {
-      "law": "lib/",
-      "lasting-instances": "content/",
-      "append-only-instances": "data/"
-    },
-    "admission": "direct bilateral contracting at this membrane",
-    "refusal": "non-identifier acts"
-  },
-  "x-semiotic-voxel": {
-    "profile": "org.harmonious-union.semiotic-voxel.v1",
-    "owner": "harmonious-union",
-    "kind": "actor",
-    "actor": "urn:ame:identifier-services-section",
-    "operations": [],
-    "capabilities": [],
-    "package": "@harmonious-union/identifier-services-section"
   }
 }
