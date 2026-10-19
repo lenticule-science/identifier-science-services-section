@@ -6,5 +6,9 @@
   "description": "Knowledge-services node accountable for identifier resolution.",
   "scripts": {
     "verify": "npm --prefix services/resolving-an-identifier run check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenticule-science/identifier-services-section.git"
   }
 }
