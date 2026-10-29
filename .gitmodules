@@ -1,4 +1,4 @@
 [submodule "resolving-an-identifier"]
 	path = services/resolving-an-identifier
-	url = https://github.com/lenticule-science/resolving-an-identifier.git
+	url = https://github.com/lenticule-science/resolving-an-identifier-science-services-section.git
 	branch = main
