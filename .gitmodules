@@ -1,0 +1,4 @@
+[submodule "services/resolving-an-identifier-science-services-section"]
+	path = services/resolving-an-identifier-science-services-section
+	url = https://github.com/lenticule-science/resolving-an-identifier-science-services-section.git
+	branch = main
